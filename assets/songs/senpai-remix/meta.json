@@ -1,0 +1,19 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "senpai",
+	"difficulties": [
+		"easy",
+		"normal",
+		"hard"
+	],
+	"parsedColor": -2661607,
+	"customValues": {},
+	"color": "#D76319",
+	"name": "senpai-remix",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "senpai-remix",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 160
+}
